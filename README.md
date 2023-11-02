@@ -43,3 +43,25 @@ Now you can login with one of following credientials.
     test1@cookbook.com / test1234
     test2@cookbook.com / test1234
 
+### Login Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/0_Login.png)
+
+### Recipe List Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/1_Recipes.png)
+
+### Ingredients List Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/2_Ingredients.png)
+
+### Register An Ingredient Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/3_CreateAnIngredient.png)
+
+### Register A Recipe Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/4_CreateARecipe.png)
+
+### Recipe Detail Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/5_RecipeDetail.png)
+
+### Cart Page
+![alt text](https://github.com/ipyramiddev/cookbook-frontend/blob/master/_screenshots/6_Cart.png)
+
+
